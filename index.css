@@ -11,3 +11,10 @@
 ul {
   list-style: none;
 }
+
+li {
+  display: block;
+}
+.user-result {
+  margin: 50px;
+}
